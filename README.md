@@ -1,4 +1,4 @@
-# 💳 Scoring Model Implementation  
+# 💳 Implementation d'un Modèle de Scoring
 
 **Projet de bout en bout d’un modèle de scoring de crédit** : de la préparation des données à la mise en production via une API déployée sur Heroku.  
 Ce projet illustre l’ensemble du cycle de vie d’un modèle de Machine Learning supervisé appliqué à la prédiction du risque de crédit.
