@@ -7,6 +7,7 @@ Ce projet consiste à créer une API de prédiction du score de solvabilité d'u
 
 Voici l'organisation des fichiers dans le dépôt :
 
+```text
 ├── Procfile # Fichier de configuration pour Heroku
 ├── app.py # Code de l'API
 ├── deploy.yml # Pipeline CI/CD pour déploiement sur Heroku
@@ -18,6 +19,7 @@ Voici l'organisation des fichiers dans le dépôt :
 ├── runtime.txt # Version de Python pour Heroku
 ├── test_app.py # Fichier de tests unitaires pour l'API
 └── README.md # Documentation du projet
+```
 
 # Fonctionnalités de l'API
 
@@ -98,5 +100,6 @@ Pour exécuter MLFlow localement, suivez les étapes suivantes :
 - Installez MLFlow : pip install mlflow
 - Lancez l'interface web de MLFlow : mlflow ui
 L'interface sera accessible à l'adresse http://localhost:5000.
+
 
 Pour toute question ou demande supplémentaire, n'hésitez pas à me contacter !
