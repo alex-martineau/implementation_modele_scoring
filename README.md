@@ -38,7 +38,7 @@ Scoring_Model_Implementation
 │   ├── 3_threshold_optimization.ipynb
 │   ├── 4_shap_analysis.ipynb
 │
-├── api/
+├── credit-scoring-api/
 │   ├── app.py
 │   ├── test_app.py
 │   ├── Procfile
